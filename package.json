@@ -1,5 +1,5 @@
 {
-  "name": "nodeprint",
+  "name": "vickysnodeprint",
   "version": "1.0.1",
   "description": "This is Node Package which will give you use of print() function insted of useing console.log()",
   "main": "index.js",

@@ -1,3 +1,5 @@
-module.exports = (str) => {
-    console.log(str);
+function print(args) {
+    console.log(args);
 }
+
+module.exports = { print };
